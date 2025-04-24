@@ -1,0 +1,12 @@
+2025-02-25 09:16:46.858 [AngelFrameLayout]:Init called id:2131367263 resName:preDefined_frame_layout     
+2025-02-25 09:16:46.858 [AngelFrameLayout]:Init called id:2131366934 resName:nudge_bottom_layout     
+2025-02-25 09:16:46.858 [AngelFrameLayout]:Init called id:2131366776 resName:mtm_frame_layout     
+2025-02-25 09:16:46.859 [AngelFrameLayout]:Init called id:2131362967 resName:boarding_layout     
+2025-02-25 09:16:46.860 [AngelFrameLayout]:Init called id:2131366939 resName:nudge_layout_NPH_107     
+2025-02-25 09:16:46.861 [AngelFrameLayout]:Init called id:2131367058 resName:optionsParentNudgeLayout     
+2025-02-25 09:16:46.924 [AngelFrameLayout]:removeAllViews childCount:0 id:2131367263 resName:preDefined_frame_layout     
+2025-02-25 09:16:46.947 [AngelFrameLayout]:Init called id:2131367032 resName:optionListNudgeLayout     
+2025-02-25 09:16:47.281 [AngelFrameLayout]:removeAllViews childCount:0 id:2131362967 resName:boarding_layout     
+2025-02-25 09:16:47.284 [AngelFrameLayout]:removeAllViews childCount:0 id:2131362967 resName:boarding_layout     
+2025-02-25 09:16:51.800 [AngelFrameLayout]:removeAllViews childCount:0 id:2131362967 resName:boarding_layout     
+2025-02-25 09:16:51.817 [AngelFrameLayout]:removeAllViews childCount:0 id:2131367263 resName:preDefined_frame_layout     
